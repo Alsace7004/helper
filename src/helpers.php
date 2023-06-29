@@ -4,7 +4,7 @@ if (! function_exists('first_helper')) {
 
     function first_helper()
     { 
-       return "I'am the first helper function of the package"; 
+       return "I'm the first helper function of the package"; 
     }
  }
 
@@ -17,7 +17,7 @@ if (! function_exists('first_helper')) {
      */
     function second_helper()
     {
-        return "I'am the second helper function of the package";
+        return "I'm the second helper function of the package";
     }
 }
 

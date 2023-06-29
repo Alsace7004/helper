@@ -24,8 +24,8 @@
             @endphp
         </div>
         
-        <p>La valeur de la fonction helper : {{$first}}</p>
-        <p>La valeur de la fonction helper : {{$second}}</p>
+        <p>Value of first helper function  : {{$first}}</p>
+        <p>Value of second helper function  : {{$second}}</p>
        
     </div>
 </body>
