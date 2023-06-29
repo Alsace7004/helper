@@ -1,0 +1,24 @@
+{
+    "name": "alsace/helper",
+    "autoload": {
+        "psr-4": {
+            "Alsace\\Helper\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+          ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Alsace\\Helper\\Providers"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Alsace7004"
+        }
+    ],
+    "require": {}
+}
